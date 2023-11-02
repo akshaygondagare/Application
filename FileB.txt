@@ -1,2 +1,0 @@
-this is fileB
-making some changes
