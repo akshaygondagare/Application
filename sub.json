@@ -1,0 +1,55 @@
+{
+    "subscriptions": [
+      {
+        "subscription_id": "subscription_id_1",
+        "resource_groups": [
+          {
+            "name": "resource_group_1",
+            "description": "Description for Resource Group 1"
+          },
+          {
+            "name": "resource_group_2",
+            "description": "Description for Resource Group 2"
+          },
+          {
+            "name": "resource_group_3",
+            "description": "Description for Resource Group 3"
+          }
+        ]
+      },
+      {
+        "subscription_id": "subscription_id_2",
+        "resource_groups": [
+          {
+            "name": "resource_group_4",
+            "description": "Description for Resource Group 4"
+          },
+          {
+            "name": "resource_group_5",
+            "description": "Description for Resource Group 5"
+          },
+          {
+            "name": "resource_group_6",
+            "description": "Description for Resource Group 6"
+          }
+        ]
+      },
+      {
+        "subscription_id": "subscription_id_3",
+        "resource_groups": [
+          {
+            "name": "resource_group_7",
+            "description": "Description for Resource Group 7"
+          },
+          {
+            "name": "resource_group_8",
+            "description": "Description for Resource Group 8"
+          },
+          {
+            "name": "resource_group_9",
+            "description": "Description for Resource Group 9"
+          }
+        ]
+      }
+    ]
+  }
